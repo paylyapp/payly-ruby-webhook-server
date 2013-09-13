@@ -1,4 +1,1 @@
-payly-ruby-webhook-server
-=========================
-
-A simple sinatra website to test webhooks
+This is an example webhook server for use with the Payly Webhooks API.
